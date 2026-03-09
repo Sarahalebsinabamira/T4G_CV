@@ -1,0 +1,16 @@
+.logo{width: 200px;
+    border-radius: 50%;
+    height: 200px;}
+.logoandtext{display: flex;}
+.bachelor{color: rgb(51, 236, 236);}
+.project{color: rgb(51, 236, 236);}
+.software{color: rgb(51, 236, 236);}
+.threeimages{width: 100px;height: px;}
+h1{
+    background-color: aqua;
+    width: 2000px;
+}
+.threeimages{display: flex;}
+.love{
+    width: 200px; height: 250px;
+}
